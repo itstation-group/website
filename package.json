@@ -1,7 +1,17 @@
 {
   "name": "website",
+  "description": "An official website of IT Station Group",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "gir",
+    "url": "git+https://github.com/itstation-group/website.git"
+  },
+  "author": {
+    "name": "ITStation Group",
+    "email": "itstationgroup7@gmail.com",
+    "url": "https://github.com/itstation-group"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
